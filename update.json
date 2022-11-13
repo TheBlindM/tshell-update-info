@@ -1,0 +1,11 @@
+{
+  "version": "0.4.0",
+  "notes": "Test version",
+  "pub_date": "2022-11-13T15:56:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY25TNTgvd2dqVnhYYnUvVENqNEFBb3kxdWc1bzBSK1B1bFVhMnZkMitvWWh1R1B1OE4vRlZLZ09HOGV0WWxuYmJPbktjVEVTMFRER01PSHBHOXZ3cWRoUUlzYWY2R3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY4MzA1OTY3CWZpbGU6VC1TaGVsbF8wLjIuMF94NjRfZW4tVVMubXNpLnppcAo4V3FmWlo5ZDI5ejFYSGVvODlZcENuZC9zSVZPWW82SE8xUHp2TUxqMy9Wd1RrcDZodHZBdUkrYXpCbko0VGlQTTRManV5c2F2dU0ySzVjcTMybHpBZz09Cg==",
+      "url": "https://gitee.com/zhidal/tauri-vite-demo/attach_files/1145742/download/tauri-vite-demo_0.4.0_x64_zh-CN.msi.zip"
+    }
+  }
+}
