@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "0.3.0",
-  "pub_date": "2022-11-13T11:00:57Z",
+  "version": "0.4.0",
+  "notes": "0.4.0",
+  "pub_date": "2022-12-03T21:05:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY25TNTgvd2dqVnhYYnUvVENqNEFBb3kxdWc1bzBSK1B1bFVhMnZkMitvWWh1R1B1OE4vRlZLZ09HOGV0WWxuYmJPbktjVEVTMFRER01PSHBHOXZ3cWRoUUlzYWY2R3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY4MzA1OTY3CWZpbGU6VC1TaGVsbF8wLjIuMF94NjRfZW4tVVMubXNpLnppcAo4V3FmWlo5ZDI5ejFYSGVvODlZcENuZC9zSVZPWW82SE8xUHp2TUxqMy9Wd1RrcDZodHZBdUkrYXpCbko0VGlQTTRManV5c2F2dU0ySzVjcTMybHpBZz09Cg==",
-      "url": "https://gitee.com/The-Blind/t-shell/releases/download/0.3/T-Shell_0.3.0_x64_en-US.msi.zip"
+      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY25TNTgvd2dqVjZDaU1meXhGUjkvTnBVOTRzVzJRUGFCR0dzUWxML3hjS0hsU2xHNGFjU2JaZThVQTZKbGNFcFpQdWd4YkE3MUN4blIzelVTd0VZU1o4cEpwK2xDemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDcxNzgyCWZpbGU6VC1TaGVsbF8wLjQuMF94NjRfZW4tVVMubXNpLnppcApCTThHYTdvakIrNktKc1dqSkJZdERzZ0piNFdzdXNOaThkcUxaNlFIV3A2a3I4OFJNNW1Rd3BzRTliTzBncTgzeFVoY2FuTkdhNXhrSmg2eFppWVhCQT09Cg==",
+      "url": "https://gitee.com/The-Blind/t-shell/releases/download/0.4/T-Shell_0.4.0_x64_en-US.msi.zip"
     }
   }
 }
