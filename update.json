@@ -1,11 +1,12 @@
 {
-  "version": "0.4.0",
-  "notes": "0.4.0",
-  "pub_date": "2022-12-03T21:05:57Z",
+  "version": "0.4.1",
+  "notes": "✨新增: 优化文件下载和上传时的消息通知 #23 
+✨修复: 文件管理 多次打开后，上传文件，会出现重复上传 #31 ",
+  "pub_date": "2022-12-11T13:10:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY25TNTgvd2dqVjZDaU1meXhGUjkvTnBVOTRzVzJRUGFCR0dzUWxML3hjS0hsU2xHNGFjU2JaZThVQTZKbGNFcFpQdWd4YkE3MUN4blIzelVTd0VZU1o4cEpwK2xDemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwMDcxNzgyCWZpbGU6VC1TaGVsbF8wLjQuMF94NjRfZW4tVVMubXNpLnppcApCTThHYTdvakIrNktKc1dqSkJZdERzZ0piNFdzdXNOaThkcUxaNlFIV3A2a3I4OFJNNW1Rd3BzRTliTzBncTgzeFVoY2FuTkdhNXhrSmg2eFppWVhCQT09Cg==",
-      "url": "https://gitee.com/The-Blind/t-shell/releases/download/0.4/T-Shell_0.4.0_x64_en-US.msi.zip"
+      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY25TNTgvd2dqVjdRdk5FM3FyR3pQcE1KcmFzMjEyd2tvZlhYVjhpM09EVCtuemlxUnJydXBmdzMyK1h4Yjc0MnBoamFPVUV5RHQ2UVdWNU4xSG9CaTRUamVsVjlhM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwNzM1MDY2CWZpbGU6VC1TaGVsbF8wLjQuMV94NjRfZW4tVVMubXNpLnppcApkOS8xWkZ4OGU3Wlh6SGt6Z1dEMGdKb0M0MHFZcHRzUmk1aTFwb0kzbGd1RW16VEZlY1VBeDdOdS9qN1htUldPVUZ2M3FBcmtMS3ZLYlBNQ3JJT1BBZz09Cg==",
+      "url": "https://gitee.com/The-Blind/t-shell/releases/download/0.4.1/T-Shell_0.4.1_x64_en-US.msi.zip"
     }
   }
 }
