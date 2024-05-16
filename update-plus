@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "notes": "✨更新:  MaxNewSize 由20M增加到35M
+🐶修复: 上传文件时进度条不动 #50",
+  "pub_date": "2024-5-16T10:10:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYm5OdzJJUDNlYytMRXVpMjI2Q2pFYjkwRHpQcnI3U2V2NmdIMmJXZDdWWnFOVkVBbllXM0RWT1R5WlR5UXM5aURqTWNjbVhKZGxzWEhaTUQyd1ZVMEZlVGlvL0pOOEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1ODUzMjg0CWZpbGU6VC1TaGVsbC1QXzAuMS4wX3g2NF9lbi1VUy5tc2kuemlwCnJ1L1IrWUNEcFlHTHdDWUV5ZGtTaEpTdUF5YTNDTlpxWi8wYkpQNVk3c1VOTlFhQ3dBaWtpdGxLZmJNa2oyUGpObWRjT05LNzMrNFVQMEFQRG9SaEF3PT0K",
+      "url": "https://gitee.com/The-Blind/t-shell/releases/download/0.5.3/T-Shell_0.5.3_x64_en-US.msi.zip"
+    }
+  }
+}
